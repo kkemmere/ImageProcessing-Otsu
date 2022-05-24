@@ -24,7 +24,6 @@ Created by Kevin Kemmerer in Digital Image Processing
 ![Otsu](https://github.com/kkemmere/ImageProcessing-Otsu/blob/main/images/100%20200.png)
 <br/>
 
-# K-Means Algorithm applied to "demo.jpg" with K value of 3
-- If you notice only 3 colors are shown in the image
+# K-Means Algorithm applied to "demo.jpg" with K value of 3. (3 Colors shown in image)
 ![Otsu](https://github.com/kkemmere/ImageProcessing-Otsu/blob/main/images/demok-3.png)
 <br/>
