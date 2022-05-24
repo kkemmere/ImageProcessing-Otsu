@@ -6,7 +6,7 @@ The whole idea for this project was for me to test and compare Otsu's method to 
 <br/>
 Created by Kevin Kemmerer in Digital Image Processing
 - kNN(k-nearest neighbor) initially requires some already known information so K-means thesholding was chosen instead.
-- This K-means algo requires changing k value in the code depending on the number of colors in an image.
+- This K-means algo requires changing k value in the code depending on the number of colors you want the final image to contain.
 - K-Means is a Machine Learning algorithm and in this instance is used for <b>Clustering</b> K amount of clusters
 <br/>
 <b>Clustering:</b> Is the process of using Machine Learning and algorithms to identify how different types of data are related and creating new segments based on those relationships.
