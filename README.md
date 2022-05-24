@@ -1,5 +1,5 @@
 # Image Processing Otsu's method of thresholding
-Image processing project using Otsu's method of thresholding using Python, Jupyter Notebook
+Image processing project using Otsu's method of thresholding written in Python on Jupyter Notebook 
 <br/>
 The whole idea for this project was for me to test and compare Otsu's method to kNN/K-Means thresholding
 <br/>
