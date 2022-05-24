@@ -20,7 +20,7 @@ Created by Kevin Kemmerer in Digital Image Processing
 ![Otsu](https://github.com/kkemmere/ImageProcessing-Otsu/blob/main/images/Screen%20Shot%202022-05-23%20at%206.16.19%20PM.png)
 <br/>
 
-# Otsu Algorithm applied to "demo.jpg"
+# Otsu method of thresholding applied to "demo.jpg"
 ![Otsu](https://github.com/kkemmere/ImageProcessing-Otsu/blob/main/images/100%20200.png)
 <br/>
 
